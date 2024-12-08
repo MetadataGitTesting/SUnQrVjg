@@ -1,0 +1,49 @@
+name: erin.roob
+description: encoding
+version: 0.4.3.435
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: erinroob
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-08 23:49:09'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-08 23:49:09'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-08T23:49:09.466009Z'
+  name: plibMaven
+  version: 7.10.81
+  id: '1840107692'
+  createdAt: '2024-12-08T23:49:09.466009Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
